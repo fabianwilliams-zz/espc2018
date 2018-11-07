@@ -11,7 +11,7 @@ This session and demo is about a Mobile Application built using a Cross Platfrom
 - Azure B2C
 
 # Notes
-The cost structure will be transactional with discounts for subscription [monthly, yearly] i.e. you will be charged per transaction as the base model. Transactions are defined as the time period for which you want to remain active in the App experience. The price below is arbrtrary now but will be refined based on cost of infrastructure and SaaS service incurred by hosting and cloud provider
+TBD
 
 # Behind the curtain: 
 ![alt text](https://github.com/fabianwilliams/espc2018/blob/master/images/RollingUpdateESPCPrivateToPublic.jpg "Private Repo Log")
