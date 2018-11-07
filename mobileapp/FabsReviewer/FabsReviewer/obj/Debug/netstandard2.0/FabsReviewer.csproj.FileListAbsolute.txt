@@ -1,0 +1,12 @@
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/bin/Debug/netstandard2.0/FabsReviewer.deps.json
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/bin/Debug/netstandard2.0/FabsReviewer.dll
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/bin/Debug/netstandard2.0/FabsReviewer.pdb
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.csprojAssemblyReference.cache
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.csproj.CoreCompileInputs.cache
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.AssemblyInfoInputs.cache
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.AssemblyInfo.cs
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.dll
+/Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer/obj/Debug/netstandard2.0/FabsReviewer.pdb

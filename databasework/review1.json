@@ -1,0 +1,14 @@
+{
+    "id": "1",
+    "sessionNumber": "BRK001",
+    "sessionName": "Future of Xamarin Forms",
+    "sessionDate": "11/1/2018",
+    "sessionCity": "Baltimore",
+    "sessionRegionState": "Maryland",
+    "sessionCountry": "USA",
+    "name": "John Doe",
+    "zerotofiveRating" : 4,
+    "feedback": "Good Session",
+    "requestContact" : true,
+    "email": "fab@me.com"
+}
