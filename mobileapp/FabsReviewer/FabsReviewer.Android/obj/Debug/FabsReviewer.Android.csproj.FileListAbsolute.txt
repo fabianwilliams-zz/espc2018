@@ -31,8 +31,6 @@
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/obj/Debug/R.cs.flag
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/obj/Debug/R.txt
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/obj/Debug/uploadflags.txt
-/Users/fabswilly/.nuget/packages/xamarin.forms/3.1.0.697729/lib/MonoAndroid10/FormsViewGroup.dll
-/Users/fabswilly/.nuget/packages/xamarin.forms/3.1.0.697729/lib/MonoAndroid10/Xamarin.Forms.Platform.Android.dll
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/bin/Debug/Mono.Android.pdb
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/bin/Debug/Xamarin.Forms.Core.pdb
 /Users/fabswilly/1fabscode/espc2018/mobileapp/FabsReviewer/FabsReviewer.Android/bin/Debug/Xamarin.Forms.Xaml.pdb

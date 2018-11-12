@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1C3CCE29-0FB7-4257-A5A2-21C999DF3477}|Default">
+﻿<Properties StartupConfiguration="{33D3E0C9-53E5-4A6A-AAB2-CA0BFE8784EB}|Default">
   <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -7,4 +7,5 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.FabsReviewer.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FabsReviewer.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D6DF0542-544C-4EC4-99A4-8C0F11A56BE3" />
 </Properties>
