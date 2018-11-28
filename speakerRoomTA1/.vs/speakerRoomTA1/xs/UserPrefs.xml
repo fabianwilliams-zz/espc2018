@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{027798E3-8D14-4092-982E-D5C9997A1600}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="speakerRoomTA1/MainPage.xaml">
+    <Files>
+      <File FileName="speakerRoomTA1/MainPage.xaml.cs" Line="19" Column="75" />
+      <File FileName="speakerRoomTA1/MainPage.xaml" Line="11" Column="114" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.speakerRoomTA1.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D6DF0542-544C-4EC4-99A4-8C0F11A56BE3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.speakerRoomTA1.Android PreferredExecutionTarget="Android.fabianpixelem" />
+  <MultiItemStartupConfigurations />
+</Properties>

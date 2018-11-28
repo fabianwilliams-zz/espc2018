@@ -1,0 +1,12 @@
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/bin/Debug/netstandard2.0/speakerRoomTA1.deps.json
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/bin/Debug/netstandard2.0/speakerRoomTA1.dll
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/bin/Debug/netstandard2.0/speakerRoomTA1.pdb
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.csprojAssemblyReference.cache
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.csproj.CoreCompileInputs.cache
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.AssemblyInfoInputs.cache
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.AssemblyInfo.cs
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.dll
+/Users/fabswilly/1fabscode/espc2018/speakerRoomTA1/speakerRoomTA1/obj/Debug/netstandard2.0/speakerRoomTA1.pdb

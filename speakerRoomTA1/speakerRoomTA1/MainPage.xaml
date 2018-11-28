@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage 
+    xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:speakerRoomTA1" 
+    x:Class="speakerRoomTA1.MainPage">
+    <ContentPage.Content>
+        <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome ESPC2018 to Xamarin.Forms Futures!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+             <Button Text="First Button" BackgroundColor="Black" TextColor="White" Clicked="firstButton_OnClicked"/>
+            <Button Text="Second Button"  />
+            <Button Text="Logout" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
